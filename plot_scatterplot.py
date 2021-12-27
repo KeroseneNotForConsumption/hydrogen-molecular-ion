@@ -28,7 +28,7 @@ mo_nums = {
     '1 sigma u *': (2, 1, 0),
     '1 pi u': (2, 1, 1),
     '2 sigma g': (2, 0, 0),
-    '2 sigma u *': (2, 1, 0),
+    '2 sigma u *': (3, 1, 0),
     '3 sigma g': (3, 2, 0),
     '1 pi g *': (3, 2, 1),
     '3 sigma u *':(4, 3, 0),
@@ -179,7 +179,7 @@ def plot_scatterplot():
             aspectratio=dict(x=24, 
                              y=40, 
                              z=24,),
-            camera=dict(eye=dict(x=25, y=3.0, z=3.0))))
+            camera=dict(eye=dict(x=25, y=0.0, z=0.0))))
     
     
     fig.show()
