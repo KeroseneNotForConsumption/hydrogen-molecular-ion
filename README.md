@@ -1,7 +1,7 @@
 # hydrogen-molecular-ion
 ### Introduction
 
-This Jupyter Notebook is a guide through obtaining the molecular orbitals of the quantum system of $\text{H}_{2}^{+}$ by directly solving the Schrödinger equation, using Python (with modules such as NumPy and SciPy). This work is derived from the following resources.
+This Jupyter Notebook is a guide through obtaining the molecular orbitals of the quantum system of H2+ by directly solving the Schrödinger equation, using Python (with modules such as NumPy and SciPy). This work is derived from the following resources.
 
 - Grivet, J.-P. The Hydrogen Molecular Ion Revisited. Journal of Chemical Education, 2002, 79, 127. https://doi.org/10.1021/ed079p127.
 - Johnson, J. L. Visualization of Wavefunctions of the Ionized Hydrogen Molecule. Journal of Chemical Education, 2004, 81, 1535. https://doi.org/10.1021/ed081p1535.1.
