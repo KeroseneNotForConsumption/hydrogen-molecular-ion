@@ -34,15 +34,15 @@ mo_nums = {
     '3 sigma u *':(4, 3, 0),
 }
 
-mo_latex = {
-    '1 sigma g': r"$1 \sigma_{g}$",
-    '1 sigma u *': r"$1 \sigma_{u}^{\ast}$",
-    '1 pi u': r"$1 \pi_{u}$",
-    '2 sigma g' : r"$2 \sigma_{g}$",
-    '3 sigma g' : r"$3 \sigma_{g}$",
-    '2 sigma u *' : r"$2 \sigma_{u}^{*}$",
-    '1 pi g *' : r"$1 \pi_{g}^{*}$",
-    '3 sigma u *' : r"$3 \sigma_{u}^{*}$",
+mo_notation = {
+    '1 sigma g': '1σg',
+    '1 sigma u *': '1σu*',
+    '1 pi u': '1πu',
+    '2 sigma g' : '2σg',
+    '3 sigma g' : '3σg',
+    '2 sigma u *' : '2σu*',
+    '1 pi g *' : '1πg*',
+    '3 sigma u *' : '3σu*',
 }
 
 
@@ -153,7 +153,7 @@ def plot_isosurface():
         
         
         button = dict(
-            label=mo_latex[mo],
+            label=mo_notation[mo],
             method='update',
             args=[{'visible': [False] * 16}])
         
