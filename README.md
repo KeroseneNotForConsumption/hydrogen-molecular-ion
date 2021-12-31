@@ -1,7 +1,7 @@
 # hydrogen-molecular-ion
 ### Introduction
 
-This Jupyter Notebook is a guide through obtaining the molecular orbitals of the quantum system of H₂⁺ by directly solving the Schrödinger equation, using Python (with modules such as NumPy and SciPy). This work is derived from the following resources.
+This Jupyter Notebook is a guide through obtaining the molecular orbitals of the quantum system of H<sub>2</sub><sup>+</sup> by directly solving the Schrödinger equation, using Python (with modules such as NumPy and SciPy). This work is derived from the following resources.
 
 - Grivet, J.-P. The Hydrogen Molecular Ion Revisited. Journal of Chemical Education, 2002, 79, 127. https://doi.org/10.1021/ed079p127.
 - Johnson, J. L. Visualization of Wavefunctions of the Ionized Hydrogen Molecule. Journal of Chemical Education, 2004, 81, 1535. https://doi.org/10.1021/ed081p1535.1.
@@ -35,36 +35,36 @@ A contour plot of the bonding and antibonding molecular orbitals.
 
 The computed molecular orbitals, visualized.
 
-| $1 \sigma_{g}$ | $1 \sigma_{u}^{\ast}$ | 
+| 1σ<sub>g</sub> | 1σ<sub>u</sub><sup>*</sup> | 
 |:-:|:-:|
 | ![s1](img/s1.png) | ![s2](img/s2.png) |
 
-| $1 \pi_{u}$ | $2 \sigma_{g}$ |
+| 1π<sub>u</sub> | 2σ<sub>g</sub> |
 |:-:|:-:|
 | ![s3](img/s3.png) | ![s4](img/s4.png) |
 
-| $2 \sigma_{u}^{*}$ | $3 \sigma_{g}$ | 
+| 2σ<sub>u</sub><sup>*</sup> | 3σ<sub>g</sub> | 
 |:-:|:-:|
 | ![s5](img/s5.png) | ![s6](img/s6.png) |
 
-| $1 \pi_{g}^{*}$ | $3 \sigma_{u}^{*}$ |
+| 1π<sub>g</sub><sup>*</sup> | 3σ<sub>u</sub><sup>*</sup> |
 |:-:|:-:|
 | ![s7](img/s7.png) | ![s8](img/s8.png) |
 
 
-| $1 \sigma_{g}$ | $1 \sigma_{u}^{\ast}$ | 
+| 1σ<sub>g</sub> | 1σ<sub>u</sub><sup>*</sup> | 
 |:-:|:-:|
 | ![i1](img/i1.png) | ![i2](img/i2.png) |
 
-| $1 \pi_{u}$ | $2 \sigma_{g}$ |
+| 1π<sub>u</sub> | 2σ<sub>g</sub> |
 |:-:|:-:|
 | ![i3](img/i3.png) | ![i4](img/i4.png) |
 
-| $2 \sigma_{u}^{*}$ | $3 \sigma_{g}$ | 
+| 2σ<sub>u</sub><sup>*</sup> | 3σ<sub>g</sub> |  
 |:-:|:-:|
 | ![i5](img/i5.png) | ![i6](img/i6.png) |
 
-| $1 \pi_{g}^{*}$ | $3 \sigma_{u}^{*}$ |
+| 1π<sub>g</sub><sup>*</sup> | 3σ<sub>u</sub><sup>*</sup> |
 |:-:|:-:|
 | ![i7](img/i7.png) | ![i8](img/i8.png) |
 
