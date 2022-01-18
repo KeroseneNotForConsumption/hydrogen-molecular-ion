@@ -35,6 +35,8 @@ A contour plot of the bonding and antibonding molecular orbitals.
 
 The computed molecular orbitals, visualized.
 
+- Scatterplots
+
 | 1σ<sub>g</sub> | 1σ<sub>u</sub><sup>*</sup> | 
 |:-:|:-:|
 | ![s1](img/s1.png) | ![s2](img/s2.png) |
@@ -51,6 +53,7 @@ The computed molecular orbitals, visualized.
 |:-:|:-:|
 | ![s7](img/s7.png) | ![s8](img/s8.png) |
 
+- Isosurfaces
 
 | 1σ<sub>g</sub> | 1σ<sub>u</sub><sup>*</sup> | 
 |:-:|:-:|
