@@ -89,7 +89,3 @@ Other modules used are
 The `.ipynb` notebooks, numbered 1, 2, 3a, 3b, and 4, is the main course. Read through these notebooks to gain a thorough understanding of the hydrogen molecular ion. 
 
 In fact, the rest of the files are for convenience, and they are not necessary. The python files `plot_scatterplot.py` and `plot_isosurface.py` respectively draws the 3D scatterplot and the 3D mesh plot of the molecular orbitals. The `data` file contains data that is used frequently in the notebooks - this is explained in the notebook as needed. It also contains data for drawing the 3D scatterplot and 3D mesh plot of the molecular orbitals, as well as the python scripts used to generate such data.
-
-### Contact Information
-
-You can contact me at KeroseneNotForConsumption@gmail.com
